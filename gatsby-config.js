@@ -1,4 +1,11 @@
 module.exports = {
+
+  siteMetadata: {
+    title: "graphqlでtitle受け取り",
+    author: "chi-m",
+    category: ["React", "Gatsuby"],
+    user: { name: "mo", email: "" },
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
